@@ -12,11 +12,14 @@
 <br />
 <br />
 
-hi, i'm spencer song, a Berkeley data science and economics graduate from Redondo Beach. 
+hi, i'm spencer song, a berkeley data science and economics graduate from redondo beach, ca. 
+
 <br />
+<br />
+
 - 🔭 I’m currently working on my Masters Data Science Degree
 - 🌱 I’m currently learning causality and NLP techniques
 - 👯 I’m looking to collaborate on ML Kaggle projects
 - 📫 How to reach me: spencersong@berkeley.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: enjoy climbing, traveling, and going to the beach in my free time
