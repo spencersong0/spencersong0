@@ -9,6 +9,7 @@
   <img align="left" alt="Spencer's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+<br />
 
 - 🔭 I’m currently working on my Masters Data Science Degree
 - 🌱 I’m currently learning causality and NLP techniques
