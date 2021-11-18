@@ -10,7 +10,10 @@
 </a>
 
 <br />
+<br />
 
+hi, i'm spencer song, a Berkeley data science and economics graduate from Redondo Beach. 
+<br />
 - 🔭 I’m currently working on my Masters Data Science Degree
 - 🌱 I’m currently learning causality and NLP techniques
 - 👯 I’m looking to collaborate on ML Kaggle projects
