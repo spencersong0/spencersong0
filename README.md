@@ -18,5 +18,4 @@ hi, i'm spencer song, a berkeley data science and economics graduate from redond
 - 🌱 I’m currently learning causality and NLP techniques
 - 👯 I’m looking to collaborate on ML Kaggle projects
 - 📫 How to reach me: spencersong@berkeley.edu
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: enjoy climbing, traveling, and going to the beach in my free time
