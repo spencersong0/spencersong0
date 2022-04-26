@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/spencersong/">
   <img align="left" alt="Spencer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/spencersong1?si=e30347374cfc4240">
-  <img align="left" alt="Spencer's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 <br />
